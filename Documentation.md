@@ -1,7 +1,7 @@
 # Exploratory_data_analysis
 A complete guide to Coursera course by IBM Exploratory data analytics
 
-# topics covered in the report:
+# Topics covered  in the documentation or report: 
 Brief description of the data set and a summary of its attributes
 Initial plan for data exploration
 Actions taken for data cleaning and feature engineering
